@@ -1,11 +1,11 @@
 # Space
 Learning Pieces:-
 
-Space Facts App
+Space App
 
 Description:-
 
-Space Facts is a simple and visually appealing web app that presents 20 fascinating facts about space. 
+Space is a simple and visually appealing web app that presents 20 fascinating facts about space. 
 Whether you're a space enthusiast or just looking to learn something new about the universe, this app offers an engaging way to explore incredible space trivia.
 
 The app is built using HTML and CSS, featuring a clean and modern design with a dark theme that enhances readability and aligns with the space theme. 
